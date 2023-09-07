@@ -1,0 +1,3 @@
+Smith,Alice,Chemistry,3.92
+James,Bib,Physics,3.30
+Polland,Carpls,Math,2.55
